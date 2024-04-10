@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "8da1",
+      "cityName": "Loganton",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-09T17:42:46.891Z",
+      "notes": "Was a cool cabin trip!",
+      "position": {
+        "lat": "41.03407848269",
+        "lng": "-77.30679988861084"
+      }
+    },
+    {
+      "id": "3729",
+      "cityName": "Tulum",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-04-09T17:47:02.079Z",
+      "notes": "Got to see some sweet ancient ruins.",
+      "position": {
+        "lat": "20.225873648069218",
+        "lng": "-87.49161422252656"
+      }
+    },
+    {
+      "id": "b122",
+      "cityName": "Bimini District",
+      "country": "Bahamas (the)",
+      "emoji": "🇧🇸",
+      "date": "2024-04-09T17:47:02.079Z",
+      "notes": "Conch conch everywhere conch",
+      "position": {
+        "lat": "25.747989631833054",
+        "lng": "-79.28262233734132"
+      }
+    },
+    {
+      "id": "5237",
+      "cityName": "Niskayuna",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-10T15:07:51.645Z",
+      "notes": "Worst place to live ever...",
+      "position": {
+        "lat": "42.83016832333787",
+        "lng": "-73.90214860439302"
+      }
+    }
+  ]
+}
